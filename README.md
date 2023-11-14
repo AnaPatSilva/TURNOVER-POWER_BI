@@ -65,10 +65,10 @@ The third page is dedicated to the admissions (according to the filters selected
 - Average Age
 - Gender
 - Education
-- Nationality
+- Nationality (with tooltip: number of employees by country)
 - Department/Team
 - Role
-- Workplace
+- Workplace (with tooltip: number of employees by workplace)
 
 ## Fourth Page – Terminations
 ![Fourth Page](https://github.com/AnaPatSilva/TurnOver-Power-BI/blob/main/Images/Fourth_Page.jpg)
@@ -77,10 +77,10 @@ In this page we have a profile of the employees that left the company (according
 - Average Age
 - Gender
 - Education
-- Nationality
+- Nationality (with tooltip: number of employees by country)
 - Reason for Termination
 - Average Seniority (years)
-- Workplace
+- Workplace (with tooltip: number of employees by workplace)
 
 ## Fifth Page – Terminations (continued)
 ![Fifth Page](https://github.com/AnaPatSilva/TurnOver-Power-BI/blob/main/Images/Fifth_Page.jpg)
@@ -96,10 +96,10 @@ The Total Employees are all employees who have or have had a relationship with t
 - Average Age
 - Gender
 - Education
-- Nationality
+- Nationality (with tooltip: number of employees by country)
 - Department/Team
 - Role
-- Workplace
+- Workplace (with tooltip: number of employees by workplace)
 
 ## Seventh Page – Current Employees
 ![Seventh Page](https://github.com/AnaPatSilva/TurnOver-Power-BI/blob/main/Images/Seventh_Page.jpg)
@@ -108,10 +108,10 @@ In this last page we can see several informations about the employees that are c
 - Average Age
 - Gender
 - Education
-- Nationality
+- Nationality (with tooltip: number of employees by country)
 - Department/Team
 - Role
-- Workplace
+- Workplace (with tooltip: number of employees by workplace)
 
 ## Conclusion
 While I was writing this report, I encountered a number of challenges, (especially with Dax) in order to obtain the information I wanted, but this served to help me learn and practise.
