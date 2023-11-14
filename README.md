@@ -69,3 +69,53 @@ The third page is dedicated to the admissions (according to the filters selected
 - Department/Team
 - Role
 - Workplace
+
+## Fourth Page – Terminations
+![Fourth Page](https://github.com/AnaPatSilva/TurnOver-Power-BI/blob/main/Images/Fourth_Page.jpg)
+
+In this page we have a profile of the employees that left the company (according to the filters selected - top left):
+- Average Age
+- Gender
+- Education
+- Nationality
+- Reason for Termination
+- Average Seniority (years)
+- Workplace
+
+## Fifth Page – Terminations (continued)
+![Fifth Page](https://github.com/AnaPatSilva/TurnOver-Power-BI/blob/main/Images/Fifth_Page.jpg)
+
+Continued profile of employees terminated:
+- Department/Team
+- Role
+
+## Sixth Page – Total Employees
+![Sixth Page](https://github.com/AnaPatSilva/TurnOver-Power-BI/blob/main/Images/Sixth_Page.jpg)
+
+The Total Employees are all employees who have or have had a relationship with the company (according to the filters selected - top left):
+- Average Age
+- Gender
+- Education
+- Nationality
+- Department/Team
+- Role
+- Workplace
+
+## Seventh Page – Current Employees
+![Seventh Page](https://github.com/AnaPatSilva/TurnOver-Power-BI/blob/main/Images/Seventh_Page.jpg)
+
+In this last page we can see several informations about the employees that are currently working in the company:
+- Average Age
+- Gender
+- Education
+- Nationality
+- Department/Team
+- Role
+- Workplace
+
+## Conclusion
+While I was writing this report, I encountered a number of challenges, (especially with Dax) in order to obtain the information I wanted, but this served to help me learn and practise.
+
+The visuals aren't the most appealing and it's something that should be improved in the future.
+
+Regarding the information presented, I think it is useful and relevant for getting to know the employees better and take personalized action.
