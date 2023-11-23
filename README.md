@@ -1,6 +1,6 @@
 ![TurnOver](https://github.com/AnaPatSilva/TurnOver-Power-BI-/blob/main/Images/TurnOver.jpg)
 # TURNOVER
-# Power BI
+# _Power BI_
 
 ## Intro
 This was my first report in Power BI.
